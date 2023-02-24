@@ -9,7 +9,7 @@ Good to meet you! I'm Prasanth, and I'm a web developer with a passion for crypt
   <a href="mailto:prasanthkannanlive@gmail.com">
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
   </a>
-  <a href="https://t.me/0xprasanth">
+  <a href="https://t.me/prasanthk0x">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegeram Badge"/>
   </a>
   <a href="https://prasanthkannan.xyz/">
